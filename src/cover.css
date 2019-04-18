@@ -152,3 +152,10 @@ table {
 tbody, thead {
   text-align: left;
 }
+
+@media (max-width: 600px) {
+  .lead button {
+    margin-top: 10px;
+    width: 100%;
+  }
+}
